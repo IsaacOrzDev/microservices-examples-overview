@@ -1,8 +1,10 @@
-# Microservices with Redis Example
-Testing micro services with Redis
+# Microservices Examples Overview
+Play microservices with different methods
+
+## Redis Example
 
 ### Client
-[microservices-redis-example-client](https://github.com/IsaacOrzDev/microservices-redis-example-client)
+- [microservices-redis-example-client](https://github.com/IsaacOrzDev/microservices-redis-example-client)
 
 ### Server
-[microservices-redis-example-server](https://github.com/IsaacOrzDev/microservices-redis-example-server)
+- [microservices-redis-example-server](https://github.com/IsaacOrzDev/microservices-redis-example-server)
