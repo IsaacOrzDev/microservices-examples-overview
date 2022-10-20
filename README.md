@@ -20,7 +20,7 @@ Play microservices with different methods
 ## Redis Example
 
 ### Client
-- [nestjs-redis-client](https://github.com/IsaacOrzDev/microservices-redis-example-client)
+- [nestjs-redis-client](https://github.com/IsaacOrzDev/nestjs-redis-client)
 
 ### Server
-- [nestjs-redis-server](https://github.com/IsaacOrzDev/microservices-redis-example-server)
+- [nestjs-redis-server](https://github.com/IsaacOrzDev/nestjs-redis-server)
