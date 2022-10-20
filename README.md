@@ -1,6 +1,14 @@
 # Microservices Examples Overview
 Play microservices with different methods
 
+## Message Broker - RabbitMQ Example
+
+### Client
+- [nestjs-rabbitmq-client](https://github.com/IsaacOrzDev/nestjs-rabbitmq-client)
+
+### Server
+- [nestjs-rabbitmq-server](https://github.com/IsaacOrzDev/nestjs-rabbitmq-server)
+
 ## gRPC Example
 
 ### Client
