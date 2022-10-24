@@ -9,6 +9,14 @@ Play microservices with different methods
 ### Server
 - [nestjs-rabbitmq-server](https://github.com/IsaacOrzDev/nestjs-rabbitmq-server)
 
+## Message Broker - Kafka Example
+
+### Client
+- [nestjs-kafka-client](https://github.com/IsaacOrzDev/nestjs-kafka-client)
+
+### Server
+- [nestjs-kafka-server](https://github.com/IsaacOrzDev/nestjs-kafka-server)
+
 ## gRPC Example
 
 ### Client
